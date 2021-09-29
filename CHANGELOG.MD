@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## 0.1.3 - (29 September, 2021)
 - [ECOM-004]
-  - Updated piplock file fix
+  - Updated piplock file fix, pushed changes
 
 ## 🚀 0.1.0 - (24 September, 2021)
 ### Added
