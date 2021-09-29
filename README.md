@@ -1,6 +1,3 @@
-# mwdet-ecom-04
-Ecom Project for training
-
-mugdha_04
-
-ecom004
+# mwdet-ecom-18
+Ecom Project for training -18
+Update
